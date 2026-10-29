@@ -11,6 +11,7 @@
       "source": "./",
       "description": "Review a peer-assessed Moodle workshop with Claude: grade every submission against the rubric, check the peers' assessments and comments, and publish grades and feedback to Moodle.",
       "version": "1.0.0",
+      "license": "Apache-2.0",
       "skills": [
         "./skills/review-moodle-workshop"
       ]

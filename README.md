@@ -73,3 +73,7 @@ How the grades are computed is in
 Everything is written to `exports/ws<id>/` in the folder where you started
 Claude: submissions, names, student numbers and grades. Keep that folder
 private and out of any git repository.
+
+## License
+
+Apache 2.0.
