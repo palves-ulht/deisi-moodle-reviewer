@@ -1,0 +1,19 @@
+{
+  "name": "deisi-moodle-reviewer",
+  "owner": {
+    "name": "Pedro Alves",
+    "url": "https://github.com/palves-ulht"
+  },
+  "description": "Claude Code skills for DEISI teachers who use Moodle workshops at Lusófona.",
+  "plugins": [
+    {
+      "name": "deisi-moodle-reviewer",
+      "source": "./",
+      "description": "Review a peer-assessed Moodle workshop with Claude: grade every submission against the rubric, check the peers' assessments and comments, and publish grades and feedback to Moodle.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/review-moodle-workshop"
+      ]
+    }
+  ]
+}

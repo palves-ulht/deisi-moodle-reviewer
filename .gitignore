@@ -1,0 +1,7 @@
+# student data, if the skill is ever run from inside this repository
+exports/
+
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
